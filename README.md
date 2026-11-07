@@ -81,6 +81,9 @@ flowchart LR
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+> [!NOTE]
+> [BibTeX citation: Click here.](./mpssd.bib)
+
 ### 2026
 -
 -
