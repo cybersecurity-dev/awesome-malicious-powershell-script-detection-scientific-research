@@ -110,7 +110,7 @@ flowchart LR
 -
 
 ### 2021
--
+- [Effective method for detecting malicious PowerShell scripts based on hybrid features](https://www.sciencedirect.com/science/article/pii/S0925231221005099)
 -
 -
 
