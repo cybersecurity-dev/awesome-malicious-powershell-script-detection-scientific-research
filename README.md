@@ -60,7 +60,7 @@ flowchart LR
     class REMOTE,WINRM,SSH,TARGET remote
 ```
 
-# Awesome [Malicious](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research) [`Powershell`](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language) [Script](https://github.com/cybersecurity-dev/awesome-powershell-scripting-resources) Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Malicious](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research) [`Powershell`](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language) [Script](https://github.com/cybersecurity-dev/awesome-powershell-scripting-resources) [Detection](https://attack.mitre.org/techniques/T1059/001/) Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -97,7 +97,7 @@ flowchart LR
 -
 
 ### 2025
--
+- [G-FLEX: A Graph-Based and Fine-Tuned Transformer Framework with Explainable AI for Fileless Malware Detection](https://link.springer.com/chapter/10.1007/978-981-95-9284-5_15)
 -
 -
 
