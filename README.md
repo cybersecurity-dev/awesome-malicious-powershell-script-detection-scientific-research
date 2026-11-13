@@ -76,13 +76,20 @@ flowchart LR
 </p>
 
 ## 📖 Contents
-- [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [Others](#old)
+- [2027](#2027) | [2026](#2026)
+- [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
+- [Others](#old)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 > [!NOTE]
 > [BibTeX citation: Click here.](./mpssd.bib)
+
+### 2027
+-
+-
+-
 
 ### 2026
 -
@@ -100,7 +107,7 @@ flowchart LR
 -
 
 ### 2023
--
+- [AST2Vec: A Robust Neural Code Representation for Malicious PowerShell Detection](https://link.springer.com/chapter/10.1007/978-3-031-45933-7_13)
 -
 -
 
@@ -111,7 +118,7 @@ flowchart LR
 
 ### 2021
 - [Effective method for detecting malicious PowerShell scripts based on hybrid features](https://www.sciencedirect.com/science/article/pii/S0925231221005099)
--
+- [Static detection of malicious PowerShell based on word embeddings](https://www.sciencedirect.com/science/article/pii/S2542660521000482)
 -
 
 ### 2020
